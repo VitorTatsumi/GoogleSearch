@@ -1,3 +1,5 @@
+#Código para fazer uma busca no Google e retornar a quantidade de resultados desejados através de uma lista ordenada.
+
 from googlesearch import search 
 
 busca = str(input('[Digite algo para buscar no Google]\n'))
